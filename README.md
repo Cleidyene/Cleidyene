@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cleidyene
-- 👀 I’m interested in mathematics and programming
+- 👀 I’m interested in Mathematics and Programming
 - 🌱 I’m currently learning C
 - 📫 How to reach me: cleidyenerenata2016@gmail.com
 
