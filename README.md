@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cleidyene
 - 👀 I’m interested in Mathematics and Programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and C++
 - 📫 How to reach me: cleidyenerenata2016@gmail.com
 
 <!---
